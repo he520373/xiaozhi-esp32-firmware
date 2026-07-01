@@ -8,7 +8,7 @@
                 "CONFIG_CUSTOM_WAKE_WORD=\"xiao pi xiao pi\"",
                 "CONFIG_CUSTOM_WAKE_WORD_DISPLAY=\"小屁小屁\"",
                 "CONFIG_CUSTOM_WAKE_WORD_THRESHOLD=20",
-                "CONFIG_SR_MN_CN_MULTINET6_QUANT=y"
+                "CONFIG_SR_MN_CN_MULTINET5_RECOGNITION_QUANT8=y"
             ]
         }
     ]
