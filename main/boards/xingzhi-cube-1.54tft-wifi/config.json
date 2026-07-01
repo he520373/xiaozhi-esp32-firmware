@@ -1,0 +1,14 @@
+{
+    "target": "esp32s3",
+    "builds": [
+        {
+            "name": "xingzhi-cube-1.54tft-wifi",
+            "sdkconfig_append": [
+                "CONFIG_USE_CUSTOM_WAKE_WORD=y",
+                "CONFIG_CUSTOM_WAKE_WORD=\"xiao pi xiao pi\"",
+                "CONFIG_CUSTOM_WAKE_WORD_DISPLAY=\"小屁小屁\"",
+                "CONFIG_CUSTOM_WAKE_WORD_THRESHOLD=20"
+            ]
+        }
+    ]
+}
