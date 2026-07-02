@@ -25,7 +25,7 @@
 #define DISPLAY_WIDTH   240
 #define DISPLAY_HEIGHT  240
 #define DISPLAY_SWAP_XY  true
-#define DISPLAY_MIRROR_X false
+#define DISPLAY_MIRROR_X true
 #define DISPLAY_MIRROR_Y false
 #define BACKLIGHT_INVERT false
 #define DISPLAY_OFFSET_X  0
